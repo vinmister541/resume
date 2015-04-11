@@ -1,0 +1,117 @@
+.top-navigation {
+	background-color: #fff;
+	width: 100%;
+	height: 4rem;
+	border-bottom: 1px solid #DDD;
+}
+
+.active {
+	text-align: left;
+	display: inline-block;
+	margin-top: 15px;
+	color: #000000;
+	font-weight: 900;
+	font-size: 120%;
+}
+
+.links1 {
+	display: inline-block;
+	margin-left: 1.25rem;
+	float: right;
+	margin-top: 15px;
+	margin-right: 1.5rem;
+	color: #000000;
+	font-weight: 900;
+	font-size: 120%;
+}
+
+
+
+.intro {
+	background-image: url("../images/skyline.jpg");
+	height: 45rem;
+	width: 100%;
+	font-size: 150%;
+	font-weight: bold;
+}
+
+.intro h1 {
+	text-align:center;
+	position: absolute;
+	top: 47%;
+	left: 20%;
+	color: #fff;
+}
+
+
+
+/*.skyline {
+	-webkit-filter: blur(1.5px);
+	margin: 0;
+}*/
+
+
+
+
+
+.meet {
+	text-align: center;
+	color: #FF7F50;
+	font-weight: 900;
+	font-size: 120%;
+	padding-top: 4rem;
+
+}
+
+.profile {
+	height: 25rem;
+	width: 100%;
+}
+
+.cool {
+	float: left;
+	padding-left: 3rem;
+}
+
+.personal {
+	padding-left: 25rem;
+	padding-right: 3rem;
+	padding-top: 1rem;
+}
+
+.portfolio {
+	height:75rem;
+	width: 100%;
+	background-color: #B0C4DE;
+	text-align: center;
+}
+
+.karma {
+	margin: 4rem;
+}
+
+.street {
+	margin: 4rem;
+}
+
+.fizz {
+	margin: 4rem;
+}
+
+.hot {
+	margin: 4rem;
+}
+
+.question {
+	margin: 4rem;
+}
+
+.contact {
+	height: 15rem;
+	text-align: center;
+}
+
+
+.logo {
+	margin: 0;
+}
